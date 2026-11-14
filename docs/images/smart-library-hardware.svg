@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="940" viewBox="0 0 1500 940">
+<rect width="100%" height="100%" fill="white"/>
+<rect x="55" y="140" width="350" height="110" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="230.0" y="177.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">Barcode scanner</text>
+<text x="230.0" y="212.25" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">UART</text>
+<rect x="55" y="415" width="350" height="110" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="230.0" y="452.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">DHT22</text>
+<text x="230.0" y="487.25" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">Humidity</text>
+<rect x="55" y="690" width="350" height="110" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="230.0" y="727.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">SRF05</text>
+<text x="230.0" y="762.25" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">Distance</text>
+<rect x="600" y="55" width="300" height="830" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="750.0" y="446.54" font-family="Arial, sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="central" fill="#151515">ESP32</text>
+<text x="750.0" y="493.46" font-family="Arial, sans-serif" font-size="34" font-weight="700" text-anchor="middle" dominant-baseline="central" fill="#151515">FreeRTOS</text>
+<polyline points="405,195 600,195" fill="none" stroke="#202020" stroke-width="2"/>
+<polygon points="600.00,195.00 591.90,198.91 591.90,191.09" fill="#202020"/>
+<polyline points="405,470 600,470" fill="none" stroke="#202020" stroke-width="2"/>
+<polygon points="600.00,470.00 591.90,473.91 591.90,466.09" fill="#202020"/>
+<polyline points="405,745 600,745" fill="none" stroke="#202020" stroke-width="2"/>
+<polygon points="405.00,745.00 413.10,741.09 413.10,748.91" fill="#202020"/>
+<polygon points="600.00,745.00 591.90,748.91 591.90,741.09" fill="#202020"/>
+<rect x="1095" y="55" width="350" height="110" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="1270.0" y="92.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">LCD 20 x 4</text>
+<text x="1270.0" y="127.25" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">I2C</text>
+<polyline points="900,110 1095,110" fill="none" stroke="#202020" stroke-width="2"/>
+<polygon points="1095.00,110.00 1086.90,113.91 1086.90,106.09" fill="#202020"/>
+<rect x="1095" y="235" width="350" height="110" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="1270.0" y="272.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">Shelf servo</text>
+<text x="1270.0" y="307.25" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">PWM</text>
+<polyline points="900,290 1095,290" fill="none" stroke="#202020" stroke-width="2"/>
+<polygon points="1095.00,290.00 1086.90,293.91 1086.90,286.09" fill="#202020"/>
+<rect x="1095" y="415" width="350" height="110" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="1270.0" y="452.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">Fan relay</text>
+<text x="1270.0" y="487.25" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">Cooling fan</text>
+<polyline points="900,470 1095,470" fill="none" stroke="#202020" stroke-width="2"/>
+<polygon points="1095.00,470.00 1086.90,473.91 1086.90,466.09" fill="#202020"/>
+<rect x="1095" y="595" width="350" height="110" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="1270.0" y="632.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">White LED</text>
+<text x="1270.0" y="667.25" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">Lighting relay</text>
+<polyline points="900,650 1095,650" fill="none" stroke="#202020" stroke-width="2"/>
+<polygon points="1095.00,650.00 1086.90,653.91 1086.90,646.09" fill="#202020"/>
+<rect x="1095" y="775" width="350" height="110" fill="white" stroke="#202020" stroke-width="2"/>
+<text x="1270.0" y="812.75" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">RGB LED</text>
+<text x="1270.0" y="847.25" font-family="Arial, sans-serif" font-size="25" font-weight="400" text-anchor="middle" dominant-baseline="central" fill="#151515">Status</text>
+<polyline points="900,830 1095,830" fill="none" stroke="#202020" stroke-width="2"/>
+<polygon points="1095.00,830.00 1086.90,833.91 1086.90,826.09" fill="#202020"/>
+</svg>

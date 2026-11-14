@@ -17,6 +17,9 @@ README được tổng hợp từ [báo cáo thiết kế kỹ thuật](word%20r
 
 ## Luồng hoạt động
 
+![Sơ đồ trạng thái mượn và trả sách](docs/images/smart-library-book-states.png)
+
+
 1. Khi cấp nguồn, ESP32 khởi tạo cảm biến, LCD, servo, bộ định thời và các tác vụ FreeRTOS. Cửa kệ ở trạng thái đóng.
 2. Khi người dùng đến gần dưới ngưỡng khoảng cách và không có cờ hạn chế, servo mở cửa kệ và đèn trắng bật.
 3. Người dùng quét mã sách:
@@ -28,6 +31,9 @@ README được tổng hợp từ [báo cáo thiết kế kỹ thuật](word%20r
 6. Song song với thao tác sách, hệ thống tiếp tục đo độ ẩm, điều khiển quạt và cập nhật LCD.
 
 ## Phần cứng
+
+![Sơ đồ phần cứng ESP32 và các thiết bị ngoại vi](docs/images/smart-library-hardware.png)
+
 
 | Thành phần | Vai trò |
 | --- | --- |
@@ -160,3 +166,5 @@ Báo cáo trình bày cả mục tiêu thiết kế và kết quả thử nghi�
 
 - [smart_library_v5.ino](smart_library_v5.ino): mã nguồn Arduino ESP32.
 - [word rtos.docx](word%20rtos.docx): Technical Design Document, gồm yêu cầu, kiến trúc, thiết kế phần cứng, kết quả, phân công và hướng dẫn sử dụng.
+
+Bản SVG của sơ đồ: [phần cứng](docs/images/smart-library-hardware.svg) · [trạng thái sách](docs/images/smart-library-book-states.svg).
