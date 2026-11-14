@@ -151,17 +151,6 @@ Báo cáo trình bày cả mục tiêu thiết kế và kết quả thử nghi�
 - Xác nhận thủ thư dùng một mã cố định và chỉ giữ một yêu cầu chờ xác nhận tại một thời điểm. Đây là cơ chế mô phỏng.
 - Các chỉ tiêu độ trễ, uptime và kết quả phần cứng trong báo cáo chưa được xác minh lại cho bản mã trong repository.
 
-## Thành viên thực hiện
-
-| Thành viên | MSSV |
-| --- | --- |
-| Bùi Nguyễn Hưng | 23119009 |
-| Nguyễn Đức Vĩnh Kiên | 23119014 |
-| Nguyễn Văn Tấn | 23119035 |
-
-**Ngành:** Computer Engineering Technology  
-**Giảng viên hướng dẫn:** Assoc. Prof. Phan Van Ca
-
 ## Tài liệu trong repository
 
 - [smart_library_v5.ino](smart_library_v5.ino): mã nguồn Arduino ESP32.
